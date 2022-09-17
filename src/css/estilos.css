@@ -144,3 +144,15 @@ body{
     max-height: 170px;
     overflow-y: auto;
 }
+
+footer div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    font-size:small;
+    color: #f1ecff;
+    text-decoration: none;
+
+
+}
